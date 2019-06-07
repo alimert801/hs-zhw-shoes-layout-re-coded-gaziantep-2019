@@ -35,3 +35,7 @@
     width: 66%;
   }
 
+[class*="col-"] {
+    margin: 0 0 2% 2%;
+  }
+
